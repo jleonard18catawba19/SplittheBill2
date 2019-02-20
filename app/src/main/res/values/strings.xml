@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Split the Bill 2</string>
+    <string name="txtTitle">Split the Bill</string>
+    <string name="txtBill">Enter Total Bill</string>
+    <string name="txtParty">Enter Party Number</string>
+    <string name="txtTipAmt">Enter Tip Amount</string>
+    <string name="btnAmount">Calculate Amount</string>
+    <string name="txtResult">Amount Per Person</string>
+</resources>
